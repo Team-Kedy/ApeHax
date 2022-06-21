@@ -18,7 +18,7 @@ modules.add(new Auto32k("Auto32K", "", Category.COMBAT));
 modules.add(new AutoArmor("AutoArmor", "", Category.COMBAT));
 modules.add(new AutoCrystal("AutoCrystal", "", Category.COMBAT));
 modules.add(new AutoLog("AutoLog", "", Category.COMBAT));
-modules.add(new AutoTNTCart("", "", Category.COMBAT));
+modules.add(new AutoTNTCart("AutoTNTCart", "", Category.COMBAT));
 modules.add(new AutoTotem("AutoTotem", "", Category.COMBAT));
 modules.add(new AutoTrap("AutoTrap", "", Category.COMBAT));
 modules.add(new BedAura("BedAura", "", Category.COMBAT));
